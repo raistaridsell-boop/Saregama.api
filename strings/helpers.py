@@ -9,7 +9,7 @@ HELP_1 = """
 ❍ /player : ɢєᴛ ᴧ ɪηᴛєʀᴧᴄᴛɪᴠє ᴩʟᴧʏєʀ ᴩᴧηєʟ
 ❍ /queue : sʜσᴡs ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs ʟɪsᴛ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_2 = """
@@ -20,7 +20,7 @@ HELP_2 = """
 ❍ /unauth [υsєʀηᴧϻє/υsєʀ_ɪᴅ] : ʀєϻσᴠє ᴧ ᴧυᴛʜ υsєʀs ғʀσϻ ᴛʜє ᴧυᴛʜ υsєʀs ʟɪsᴛ
 ❍ /authusers : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ᴧυᴛʜ υsєʀs σғ ᴛʜє ɢʀσυᴩ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_3 = """
@@ -37,7 +37,7 @@ HELP_3 = """
 
 ❖ єxᴧϻᴩʟє:</b> <code>/broadcast -user -assistant -pin ᴛєsᴛɪηɢ ʙʀσᴧᴅᴄᴧsᴛ</code>
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_4 = """
@@ -48,7 +48,7 @@ HELP_4 = """
 ❍ /whitelistchat [ᴄʜᴧᴛ ɪᴅ] : ᴡʜɪᴛєʟɪsᴛ ᴛʜє ʙʟᴧᴄᴋʟɪsᴛєᴅ ᴄʜᴧᴛ
 ❍ /blacklistedchat : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ʙʟᴧᴄᴋʟɪsᴛєᴅ ᴄʜᴧᴛs
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_5 = """
@@ -59,7 +59,7 @@ HELP_5 = """
 ❍ /unblock [υsєʀηᴧϻє σʀ ʀєᴩʟʏ ᴛσ ᴧ υsєʀ] : υηʙʟσᴄᴋs ᴛʜє ʙʟσᴄᴋєᴅ υsєʀ
 ❍ /blockedusers : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ʙʟσᴄᴋєᴅ υsєʀs.
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krishsᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_6 = """
@@ -71,7 +71,7 @@ HELP_6 = """
 ❍ /cplayforce or /cvplayforce : sᴛσᴩs ᴛʜє σηɢσɪηɢ sᴛʀєᴧϻ ᴧηᴅ sᴛᴧʀᴛs sᴛʀєᴧϻɪηɢ ᴛʜє ʀєǫυєsᴛєᴅ ᴛʀᴧᴄᴋ
 ❍ /channelplay [ᴄʜᴧᴛ υsєʀηᴧϻє σʀ ɪᴅ] σʀ [ᴅɪsᴧʙʟє] : ᴄσηηєᴄᴛ ᴄʜᴧηηєʟ ᴛσ ᴧ ɢʀσυᴩ ᴧηᴅ sᴛᴧʀᴛs sᴛʀєᴧϻɪηɢ ᴛʀᴧᴄᴋs ʙʏ ᴛʜє ʜєʟᴩ σғ ᴄσϻϻᴧηᴅs sєηᴛ ɪη ɢʀσυᴩ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_7 = """
@@ -80,7 +80,7 @@ HELP_7 = """
 ❍ /ungban [υsєʀηᴧϻє σʀ ʀєᴩʟʏ ᴛσ ᴧ υsєʀ] : ɢʟσʙᴧʟʟʏ υηʙᴧηs ᴛʜє ɢʟσʙᴧʟʟʏ ʙᴧηηєᴅ υsєʀ
 ❍ /gbannedusers : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ɢʟσʙᴧʟʟʏ ʙᴧηηєᴅ υsєʀs
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_8 = """
@@ -90,7 +90,7 @@ HELP_8 = """
 ❍ /loop [enable/disable] : єηᴧʙʟєs/ᴅɪsᴧʙʟєs ʟσσᴘ ғσʀ ᴛʜє σηɢσɪηɢ sᴛʀєᴧϻ
 ❍ /loop [1, 2, 3, ...] : єηᴧʙʟєs ᴛʜє ʟσσᴘ ғσʀ ᴛʜє ɢɪᴠєη ᴠᴧʟυє
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_9 = """
@@ -99,7 +99,7 @@ HELP_9 = """
 ❍ /logger [єηᴧʙʟє/ᴅɪsᴧʙʟє] : ʙσᴛ ᴡɪʟʟ sᴛᴧʀᴛ ʟσɢɢɪηɢ ᴛʜє ᴧᴄᴛɪᴠɪᴛɪєs ʜᴧᴩᴩєη ση ʙσᴛ
 ❍ /maintenance [єηᴧʙʟє/ᴅɪsᴧʙʟє] : єηᴧʙʟє σʀ ᴅɪsᴧʙʟє ᴛʜє ϻᴧɪηᴛєηᴧηᴄє ϻσᴅє σғ ʏσυʀ ʙσᴛ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_10 = """
@@ -109,7 +109,7 @@ HELP_10 = """
 ❍ /ping : sʜσᴡs ᴛʜє ᴩɪηɢ ᴧηᴅ sʏsᴛєϻ sᴛᴧᴛs σғ ᴛʜє ʙσᴛ
 ❍ /stats : sʜσᴡs ᴛʜє σᴠєʀᴧʟʟ sᴛᴧᴛs σғ ᴛʜє ʙσᴛ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_11 = """
@@ -120,7 +120,7 @@ FORCE : sᴛᴧηᴅs ғσʀ ғσʀᴄє ᴩʟᴧʏ```
 **❍ /play σʀ /vplay : sᴛᴧʀᴛs sᴛʀєᴧϻɪηɢ ᴛʜє ʀєǫυєsᴛєᴅ ᴛʀᴧᴄᴋ ση ᴠɪᴅєσᴄʜᴧᴛ
 ❍ /playforce σʀ /vplayforce : sᴛσᴩs ᴛʜє σηɢσɪηɢ sᴛʀєᴧϻ ᴧηᴅ sᴛᴧʀᴛs sᴛʀєᴧϻɪηɢ ᴛʜє ʀєǫυєsᴛєᴅ ᴛʀᴧᴄᴋ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
 
 HELP_12 = """
@@ -128,38 +128,21 @@ HELP_12 = """
 **❍ /shuffle : sʜυғғʟє's ᴛʜє σ̨υєυє.
 ❍ /queue : sʜσᴡs ᴛʜє sʜυғғʟєᴅ σ̨υєυє
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
-"""
-
-HELP_13 = """
-<b><u>❖ sєєᴋ sᴛʀєᴧϻ ❖</b></u>
-**❍ /seek [ᴅυʀᴧᴛɪση ɪη sєᴄσηᴅs] : sєєᴋ ᴛʜє sᴛʀєᴧϻ ᴛσ ᴛʜє ɢɪᴠєη ᴅυʀᴧᴛɪση
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
+"<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b> sєєᴋ ᴛʜє sᴛʀєᴧϻ ᴛσ ᴛʜє ɢɪᴠєη ᴅυʀᴧᴛɪση
 ❍ /seekback [ᴅυʀᴧᴛɪση ɪη sєᴄσηᴅs] : ʙᴧᴄᴋᴡᴧʀᴅ sєєᴋ ᴛʜє sᴛʀєᴧϻ ᴛσ ᴛʜє ᴛʜє ɢɪᴠєη ᴅυʀᴧᴛɪση
 
 <b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
-"""
-
-HELP_14 = """
-<b><u>❖ sσηɢ ᴅσᴡηʟσᴧᴅ ❖</b></u>
-**❍ /song [sσηɢ ηᴧϻє/ʏᴛ υʀʟ] : ᴅσᴡηʟσᴧᴅ ᴧηʏ ᴛʀᴧᴄᴋ ғʀσϻ ʏσυᴛυʙє ɪη ϻᴘ3 σʀ ϻᴘ4 ғσʀϻᴧᴛs
+"<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>ᴅσᴡηʟσᴧᴅ ᴧηʏ ᴛʀᴧᴄᴋ ғʀσϻ ʏσυᴛυʙє ɪη ϻᴘ3 σʀ ϻᴘ4 ғσʀϻᴧᴛs
 
 <b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
-"""
-
-HELP_15 = """
-<b><u>❖ sᴘєєᴅ ᴄσϻϻᴧηᴅs ❖</b></u>
-**ʏσυ ᴄᴧη ᴄσηᴛʀσʟ ᴛʜє ᴘʟᴧʏʙᴧᴄᴋ sᴘєєᴅ σғ ᴛʜє σηɢσɪηɢ sᴛʀєᴧϻ. [ᴧᴅϻɪηs σηʟʏ]
+"<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish  sᴜᴘᴘᴏʀᴛ˼</a></b> sᴘєєᴅ σғ ᴛʜє σηɢσɪηɢ sᴛʀєᴧϻ. [ᴧᴅϻɪηs σηʟʏ]
 
 ❍ /speed or /playback : ғσʀ ᴧᴅᴊυsᴛɪηɢ ᴛʜє ᴧυᴅɪσ ᴘʟᴧʏʙᴧᴄᴋ sᴘєєᴅ ɪη ɢʀσυᴘ
 ❍ /cspeed or /cplayback : ғσʀ ᴧᴅᴊυsᴛɪηɢ ᴛʜє ᴧυᴅɪσ ᴘʟᴧʏʙᴧᴄᴋ sᴘєєᴅ ɪη ᴄʜᴧηηєʟ
 
 <b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
-"""
-
-HELP_16 = """
-<b><u>ᴍᴀꜱꜱ ᴀᴄᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
-
-ɴᴏᴛᴇ : ᴍᴀꜱꜱ ᴀᴄᴛɪᴏɴ ᴏɴʟʏ ᴄᴀɴ ᴜꜱᴇ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ.
+"<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>ᴀɴ ᴜꜱᴇ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ.
 
 /banall : ʙᴀɴ ᴀʟʟ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀꜱ. (ᴏɴʟʏ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ ᴇxᴇᴄᴜᴛᴇ ᴄᴍᴅ)
 /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ʙᴀɴɴᴇᴅ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀꜱ. (ᴏɴʟʏ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ ᴇxᴇᴄᴜᴛᴇ ᴄᴍᴅ)
@@ -169,16 +152,10 @@ HELP_16 = """
 /unpinall : ᴜɴᴘɪɴᴅ ᴀʟʟ ᴘɪɴɴᴇᴅ ᴍᴇꜱꜱᴇɢᴇꜱ ɪɴ ɢʀᴏᴜᴘ. (ᴏɴʟʏ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ ᴇxᴇᴄᴜᴛᴇ ᴄᴍᴅ)
 
 <b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
-"""
-
-HELP_17 = """
-<b><u>Owners :</b></u>
-
-/leaveall1 - for assis 1
-/leaveall2 - for assis 2
+"<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>or assis 2
 /leaveall3 - for assis 3
 /leaveall4 - for assis 4
 /leaveall5 - for assis 5
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/GovoBots'>˹ɢᴏᴠᴏ sᴜᴘᴘᴏʀᴛ˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/Krishbots'>˹krish sᴜᴘᴘᴏʀᴛ˼</a></b>
 """
