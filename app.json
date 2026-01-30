@@ -1,7 +1,7 @@
 
 {
 
-    "name": "SAREGAMA Music",
+    "name": "krisj music",
 
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
 
@@ -15,7 +15,7 @@
 
     "bot",
 
-    "SAREGAMA",
+    "krish",
 
     "MusicBot",
 
@@ -31,7 +31,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "29246748",
+        "value": "36902895",
 
         "required": true
 
@@ -41,7 +41,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "2f53a2413a205c48b3a9a9b0a701e656",
+        "value": "02da71262aba7aaa306d3f772f0c3543",
 
         "required": true
 
@@ -71,7 +71,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "7668543228",
+        "value": "8078856375",
 
         "required": true
 
@@ -80,7 +80,6 @@
       "STRING_SESSION": {
 
         "description": "A Pyrogram v2 String Session from Replit.",
-
         "value": "",
 
         "required": true
@@ -91,9 +90,9 @@
 
         "description": "Your Heroku account's API key",
 
-        "value": "",
+        "value": "HRKU-AAwERrQJE2CGZwX-1s14csSqLAlY30QiSiWm7PgqM4yw_____w3WJGbu_9pF",
 
-        "required": false
+        "required": True
 
       },
 
