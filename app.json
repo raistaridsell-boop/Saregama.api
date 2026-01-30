@@ -90,9 +90,9 @@
 
         "description": "Your Heroku account's API key",
 
-        "value": "HRKU-AAwERrQJE2CGZwX-1s14csSqLAlY30QiSiWm7PgqM4yw_____w3WJGbu_9pF",
+        "value": "",
 
-        "required": True
+        "required": false
 
       },
 
