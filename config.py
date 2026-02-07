@@ -19,7 +19,14 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
+from os import getenv
+
+LOG_GROUP_ID = getenv("LOG_GROUP_ID")
+if LOG_GROUP_ID:
+    LOG_GROUP_ID = int(LOG_GROUP_ID)
+else:
+    LOG_GROUP_ID = 0
+
 
 # Vars For API End Pont.
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
