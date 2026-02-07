@@ -25,7 +25,7 @@ LOG_GROUP_ID = getenv("LOG_GROUP_ID")
 if LOG_GROUP_ID:
     LOG_GROUP_ID = int(LOG_GROUP_ID)
 else:
-    LOG_GROUP_ID = 0
+    LOG_GROUP_ID = -1003601301106
 
 
 # Vars For API End Pont.
